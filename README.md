@@ -1,11 +1,5 @@
-# Swing Academy Kathmandu
-### Promoting Lindy Hop and dances of the Swing Jazz Era
+# Save Parbat Rai
 
 
 
-# Check it out here !!
-* https://kunjung.github.io/SwingAcademy/
-
-
-# The Heroku Version !!
-* https://swingktm.herokuapp.com/
+* https://kunjung.github.io/saveparbatrai/
